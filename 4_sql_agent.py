@@ -58,7 +58,7 @@ def get_agent():
 agent = get_agent()
 
 
-st.subheader("📜 TaskBot - Manage Your Tasks")
+st.subheader(" TaskBot - Manage Your Tasks")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
