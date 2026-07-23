@@ -168,12 +168,6 @@ Show my latest tasks.
 
 ---
 
-##  Demo
-
-_Add screenshots or a GIF here._
-
----
-
 ##  Future Enhancements
 
 - User authentication
