@@ -187,8 +187,3 @@ _Add screenshots or a GIF here._
 
 ---
 
-
-
-LinkedIn: https://linkedin.com/in/your-profile
-
-GitHub: https://github.com/your-username
