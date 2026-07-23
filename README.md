@@ -187,9 +187,7 @@ _Add screenshots or a GIF here._
 
 ---
 
-## 👨‍💻 Author
 
-**Harsaihaj Singh**
 
 LinkedIn: https://linkedin.com/in/your-profile
 
