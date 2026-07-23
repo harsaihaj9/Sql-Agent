@@ -1,23 +1,23 @@
-# 📜 TaskBot - AI-Powered SQL Task Manager
+# TaskBot - AI-Powered SQL Task Manager
 
 An intelligent **Agentic AI** task management assistant that enables users to manage tasks using **natural language** instead of writing SQL queries. Built using **LangChain**, **LangGraph**, **Groq LLM**, **SQLite**, and **Streamlit**.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📝 Create tasks using natural language
-- 📋 View existing tasks
-- ✏️ Update task status
-- 🗑️ Delete tasks
-- 💬 Conversational chat interface
-- 🧠 Context-aware conversations using memory
-- 🤖 Automatic SQL generation and execution
-- 📊 Tasks displayed in a structured format
+-  Create tasks using natural language
+-  View existing tasks
+-  Update task status
+-  Delete tasks
+-  Conversational chat interface
+-  Context-aware conversations using memory
+-  Automatic SQL generation and execution
+-  Tasks displayed in a structured format
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Python**
 - **LangChain**
@@ -30,7 +30,7 @@ An intelligent **Agentic AI** task management assistant that enables users to ma
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
           User
@@ -60,7 +60,7 @@ System Prompt     Conversation Memory
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 TaskBot/
@@ -73,7 +73,7 @@ TaskBot/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### 1. Clone the repository
 
@@ -109,7 +109,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🔑 Environment Variables
+##  Environment Variables
 
 Create a `.env` file in the project root.
 
@@ -119,7 +119,7 @@ GROQ_API_KEY=your_groq_api_key
 
 ---
 
-## ▶️ Run the Application
+##  Run the Application
 
 ```bash
 streamlit run app.py
@@ -127,7 +127,7 @@ streamlit run app.py
 
 ---
 
-## 💡 Example Prompts
+## Example Prompts
 
 ```
 Create a task to complete my DBMS assignment.
@@ -145,7 +145,7 @@ Show my latest tasks.
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. User enters a request in natural language.
 2. LangChain Agent interprets the request.
@@ -156,7 +156,7 @@ Show my latest tasks.
 
 ---
 
-## ✨ Key Highlights
+##  Key Highlights
 
 - Agentic AI workflow
 - Natural Language to SQL (NL2SQL)
@@ -168,13 +168,13 @@ Show my latest tasks.
 
 ---
 
-## 📸 Demo
+##  Demo
 
 _Add screenshots or a GIF here._
 
 ---
 
-## 📈 Future Enhancements
+##  Future Enhancements
 
 - User authentication
 - Multi-user task management
